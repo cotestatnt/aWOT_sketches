@@ -1,5 +1,5 @@
 # aWOT_sketches
-aWOT Arduino library test skecth
+aWOT (Arduino web server library) test skecth
 
 
 https://awot.net/
